@@ -115,4 +115,4 @@ Code: [choose a licence, for example MIT]. The dataset has its own terms of use 
 
 ## Contact
 
-Atieno Diana Opiyo (corresponding author), MS Data Science and Analytics, Grand Valley State University. mercydiana02@gmail.com
+Atieno Diana Opiyo (corresponding author), MS Data Science and Analytics, Grand Valley State University. opiyod@mail.gvsu.edu
